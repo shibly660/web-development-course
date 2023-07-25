@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Secular+One&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.logo {
+    font-family: 'Secular One', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1D1D1D;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header .container, .hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainmenu ul {
+    display: flex;
+}
+
+.mainmenu li a {display: inline-block;padding: 10px 27px;color: #1D1D1D;}
+
+.mainmenu li.get-started-link a {
+    background: #1361F5;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.mainmenu li.login-link a {
+    color: #1361F5;
+}
+
+.header {
+    padding: 28px 0;
+}
+
+.hero-text h2 {
+    font-size: 48px;
+    margin-bottom: 35px;
+    line-height: 50px;
+}
+
+body {
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -1px;
+}
+
+.btn {
+    border: 1px solid;
+    display: inline-block;
+    padding: 10px 27px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.btn.primary-btn {
+    background: #1361f5;
+    border-color: #1361f5;
+    color: #fff;
+}
+
+.btn.secondary-btn {
+    border-color: #E0E0E0;
+    color: #1361f5;
+}
+
+.hero-text p {
+    margin-bottom: 45px;
+}

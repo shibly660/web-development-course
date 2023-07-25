@@ -1,0 +1,44 @@
+<style>
+        
+h1{
+    color: rgb(87, 194, 167);
+    background-color: rgb(233, 85, 85);
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+}
+#head{
+    color: royalblue;
+    background-color: blanchedalmond;
+    padding: 100px;
+    margin: 100px;
+    text-align: center;
+    border-radius: 25%;
+
+}
+
+.pahar{
+    color: rgb(45, 59, 65);
+    background-color: rgb(156, 236, 241);
+    border: 50px groove rgb(216, 161, 90);
+    border-radius: 25px;
+    padding: 50px;
+    width: 75%;
+    height: auto;
+    margin: 100px auto;
+
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+.pregraphe{
+    text-align: justify;
+}
+.author{
+    color: red;
+}
+
+</style>
