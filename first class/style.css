@@ -1,13 +1,13 @@
-<style>
+
         
 h1{
     color: rgb(87, 194, 167);
     background-color: rgb(233, 85, 85);
     padding: auto;
-    margin: auto;
+    margin: 100px auto;
     text-align: center;
     height: 50%;
-    width: 100%;
+    width: 75%;
 }
 #head{
     color: royalblue;
@@ -41,4 +41,3 @@ h1{
     color: red;
 }
 
-</style>
